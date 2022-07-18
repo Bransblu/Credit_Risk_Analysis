@@ -61,3 +61,5 @@ Low-risk recall is 94%, meaning a higher low-risk accuracy.
 
 
 ## Summary
+
+In terms of determining high-risk credit risk, the ensemble models were the mose precise and accurate. With the ensemble model having the highest precision at 9%, even that is not an acceptable precision. There were numerous falsely detected high-risk results. I would not recommend any of the models for predicting credit risk with such low success at predicting precision.
