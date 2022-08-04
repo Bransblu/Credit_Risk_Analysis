@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to utilize **imbalanced-learn** and **scikit-learn** libraries to evaluate unbalanced meodels to determine underlying credit risk. The different models will have varying levels of precision and accuracy. 
+The purpose of this analysis is to utilize **imbalanced-learn** and **scikit-learn** libraries to evaluate unbalanced models to determine underlying credit risk. The different models will have varying levels of precision and accuracy. 
 
 First, models will be resampled to predict credit risk. Second, SMOTEENN algorithm will be used to predict credit risk. Lastly, ensemble classifiers were used to predict credit risk. 
 
